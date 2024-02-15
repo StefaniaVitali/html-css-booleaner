@@ -1,4 +1,7 @@
-
+/* genelar style-settings */
+*{
+    margin:0;
+}
 /* style header */
 .page-header{
     background-color:lightskyblue;
@@ -26,5 +29,17 @@
 .article-list{
     padding-left: 15px;
 }
-
+table{
+    text-align: left;
+}
+thead{
+    background-color:rgb(127, 166, 251);
+    color:white;
+}
+.first-element .second-element{
+    width:25%
+}
+.third-element{
+    width: 50%;
+}
 
