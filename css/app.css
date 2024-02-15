@@ -1,3 +1,9 @@
-header{
-    background-color: blue;
+
+/* style header */
+.page-header{
+    background-color:lightskyblue;
+}
+.logo{
+    width: 200px;
+    height: 100px;
 }
