@@ -8,13 +8,23 @@
     height: 100px;
 }
 
-/* article section */
+/* main content */
 
+/* article header */
 .author{
     font-size: 16px;
 }
 .author span{
     color:blue;
+}
+/* article main content */
+.article-text span{
+    background-color: yellow;
+}
+
+/* article list */
+.article-list{
+    padding-left: 15px;
 }
 
 
