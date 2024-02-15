@@ -1,7 +1,5 @@
-/* genelar style-settings */
-*{
-    margin:0;
-}
+
+
 /* style header */
 .page-header{
     background-color:lightskyblue;
@@ -12,6 +10,13 @@
 }
 
 /* main content */
+.article h1{
+    margin-bottom: 5px;
+}
+.article p{
+    padding-top: 0;
+    margin-top: 0;
+}
 
 /* article header */
 .author{
@@ -42,4 +47,14 @@ thead{
 .third-element{
     width: 50%;
 }
-
+tbody{
+    background-color:gainsboro;
+}
+tbody tr:nth-child(even){
+    background-color:white;
+}
+/* footer */
+footer{
+    background-color:rgb(47, 55, 100) ;
+    text-align: center;
+}
