@@ -7,3 +7,14 @@
     width: 200px;
     height: 100px;
 }
+
+/* article section */
+
+.author{
+    font-size: 16px;
+}
+.author span{
+    color:blue;
+}
+
+
